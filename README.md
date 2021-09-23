@@ -1,5 +1,5 @@
 # get-ready-for-github
-如何上传文件到个人账号&创建文件夹管理文件
+如何上传文件到个人账号&创建**文件夹**管理文件
 
 #### 关于`Repositories`的更多操作可以看GitHub的说明文档[GitHub Docs](https://docs.github.com/cn/github/getting-started-with-github/quickstart/create-a-repo)，提供中文教程
 更多Github教程参考[GitHub中文社区](https://www.githubs.cn/)
@@ -18,7 +18,7 @@
 
 ##### 3. 点击`Add file`在此`Repository`中添加文件
 - `Upload files`直接在当前目录下添加文件
-- `Create new file`创建新文件，可以用于创建新文件夹统一管理文件（后面有教程具体说明）
+- `Create new file`创建新文件，可以用于创建新**文件夹**统一管理文件（后面有教程具体说明）
 ![image](https://user-images.githubusercontent.com/37015452/134503065-9792a12e-a60d-454c-8d9d-3bc08cafd85d.png)
 
 
